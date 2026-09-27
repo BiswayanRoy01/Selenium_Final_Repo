@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+reports/
+screenshots/
+
+.env
+
+test_data/login_data.csv
